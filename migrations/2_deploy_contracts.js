@@ -1,5 +1,5 @@
-const Decentragram = artifacts.require("Decentragram");
+const MemeMedia = artifacts.require("MemeMedia");
 
 module.exports = function(deployer) {
-  deployer.deploy(Decentragram);
+  deployer.deploy(MemeMedia);
 };

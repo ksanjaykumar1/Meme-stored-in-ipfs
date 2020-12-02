@@ -1,8 +1,7 @@
 {
-  "name": "decentragram",
+  "name": "D-Meme",
   "version": "0.1.0",
-  "description": "Decentralized Social Media",
-  "author": "Dapp University",
+  "description": "Decentralized Meme media ",
   "homepage": ".",
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.1.0",
